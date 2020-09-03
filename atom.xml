@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>丁仁龙的博客</title>
+  
+  <subtitle>Fighting</subtitle>
+  <link href="https://dingrenlong.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dingrenlong.github.io/"/>
+  <updated>2020-08-30T02:25:04.000Z</updated>
+  <id>https://dingrenlong.github.io/</id>
+  
+  <author>
+    <name>drl</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dingrenlong.github.io/2020/09/hello-world/"/>
+    <id>https://dingrenlong.github.io/2020/09/hello-world/</id>
+    <published>2020-09-03T07:21:35.130Z</published>
+    <updated>2020-08-30T02:25:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://dingrenlong.github.io/2020/08/article-title/"/>
+    <id>https://dingrenlong.github.io/2020/08/article-title/</id>
+    <published>2020-08-30T14:05:59.000Z</published>
+    <updated>2020-08-30T02:25:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
